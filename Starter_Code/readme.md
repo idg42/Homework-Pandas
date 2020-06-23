@@ -2,7 +2,7 @@
 ## Unit 4 Homework Assignment: A Whale Off the Port(folio)
 ### Ian Davies
 
- Following tool (analysis notebook) runs an analyzes and visualizes the major metrics of the portfolios to determine which portfolio outperformed the others. Historical daily returns of several portfolios: algorithmic portfolios, "whale" investors portfolio by Warren Buffett, and some from the big hedge and mutual funds are used in the tool. The analysis also compares a custom portfolio of stocks performance to that of the other portfolios, as well as the larger market (S&P 500). 
+ Following tool (analysis notebook) runs an analyzes and creates visualizations of major metrics for a set of portfolios.  Purpose is to determine which portfolio outperformed the others. Historical daily returns of several portfolios: algorithmic portfolios, "whale" investors portfolio by Warren Buffett, and  big hedge and mutual funds are used in the tool. The analysis also compares performance of a custom portfolio of stocks to that of the other portfolios, against the larger market (S&P 500). 
  
 **Execution:**
 
